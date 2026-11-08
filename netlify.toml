@@ -1,0 +1,7 @@
+[build]
+  publish = "Jamel Eusebio"
+
+[[redirects]]
+  from = "/indexa.html"
+  to = "/"
+  status = 301
